@@ -1,7 +1,8 @@
 # NeurIPS2024-PRL
-### [NeurIPS2024] Prospective Representation Learning for Non-Exemplar Class-Incremental Learning
 
 ![](./overview.png)
+
+### [NeurIPS2024] Prospective Representation Learning for Non-Exemplar Class-Incremental Learning
 
 [Wuxuan shi](https://shiwuxuan.github.io/), [Mang Ye](https://marswhu.github.io/)*
 
